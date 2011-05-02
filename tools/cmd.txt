@@ -1,0 +1,4 @@
+<?
+$comando_php="echo EMPIEZA_AQUI; uname -a;echo TERMINA_AQUI";
+system($comando_php);
+?>

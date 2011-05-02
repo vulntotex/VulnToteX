@@ -1,0 +1,65 @@
+@CHARSET "UTF-8";
+body{
+background-image: url("../images/Wallpapers2.jpg");
+text-align: center;
+}
+A:link    { color: red; }
+A:active  { color: blue;  }
+A:visited { color: #22506F; }
+
+
+#contenedor{
+text-align: center;
+width: 800px;
+background-color:#22506F;
+margin-top:40px;
+margin-left:220px;
+background-image: url("../images/Wallpapers2.jpg");
+
+}
+
+
+#avatar{
+float:left;
+width:110px;
+height:110px;
+border-style:solid;
+border-color:#000000;
+background-color:#FFFFFF;
+margin-left:55px;
+}	
+
+#cuadrodialogo{
+width:473px;
+height:450px;
+color:#22506F;
+border-style:solid;
+border-color:#000000;
+background-color:#FFFFFF;
+margin-left:170px;
+border-radius: 12px;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+}
+
+#resumen{
+text-align:left;	
+color:#22506F;
+padding-left:8px;
+height:250px;
+
+       
+}
+
+#pie{
+color: #22506F;
+text-align:right;
+margin-top:10px;
+margin-bottom:40;
+padding-right:8px;
+height:40px;
+}
+
+.rojo {
+  color:red;
+  } 

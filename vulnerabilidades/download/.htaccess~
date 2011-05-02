@@ -1,0 +1,9 @@
+<Files *.xls>
+  ForceType application/octet-stream
+  Header set Content-Disposition attachment
+  
+</Files>
+AddType application/octet-stream .avi
+AddType application/octet-stream .mpg
+AddType application/octet-stream .mov
+AddType application/octet-stream .pdf

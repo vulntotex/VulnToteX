@@ -1,0 +1,53 @@
+a:link {
+  /*color letra de cerrar*/
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+/*color letra de los titulos*/
+  color: white;
+  text-decoration: none;
+}
+
+* {
+    font-family: Verdana, Helvetica;
+    font-size: 10pt;
+	text-align:center;
+}
+.highslide-html {     
+   /* background-color: blue;*/
+	background-image:url(../images/cuadrito.jpg);
+	font-size:30pt;
+}
+.highslide-html-blur {
+}
+.highslide-html-content {
+	position: absolute;
+    display: none;
+}
+.highslide-display-block {
+    display: block;
+}
+.highslide-display-none {
+    display: none;
+}
+
+.control {
+	float: right;
+    display: block;
+    /*position: relative;*/
+	margin: 0 5px;
+	font-size: 9pt;
+    font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+	color: #999;
+	text-align:center;
+}
+.control:hover {
+	color: black !important;
+}
+.highslide-move {
+    cursor: move;
+} 

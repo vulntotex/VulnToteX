@@ -1,0 +1,64 @@
+.highslide-wrapper, .highslide-outline {
+	background: #455445;
+}
+.highslide img {
+	border: 30px solid #D0D0D0;
+}
+.highslide:hover img {
+	border-color: #A0A0A0;
+}
+.highslide-image {
+	border: 2px solid #FFFFFF;
+}
+.highslide-heading {
+	display: none;
+	margin: 0;
+	color: #FFFFFF;
+	font-weight: bold;
+	font-family: sans-serif !important;
+	font-size: 10pt !important;
+	padding: 2px;
+	cursor: move;
+}
+.highslide-caption {
+	color: #FFFFFF;
+	font-family: sans-serif !important;
+	font-size: 10pt !important;
+	padding: 2px;
+}
+.highslide-loading {
+	color: red;
+	border: 1px solid black;
+	background-color: red;
+	background-image: url(graphics/loader.white.gif);
+}
+
+.highslide-html {
+	background-color: red;
+	/*background-image:url(../images/fondo2.png);*/
+	
+
+}
+.highslide-header ul a {
+	background-image: url(graphics/controlbar-text-buttons.png);
+	padding-left: 16px;
+}
+.highslide-header .highslide-move a {
+	background-position: 0 -281px;
+}
+.highslide-header .highslide-close a {
+	background-position: 0 -221px;
+}
+
+
+a:visited {
+/*color letra de los titulos*/
+  color: white;
+  text-decoration: none;
+}
+
+* {
+    font-family: Verdana, Helvetica;
+    font-size: 10pt;
+	text-align:justify;
+}

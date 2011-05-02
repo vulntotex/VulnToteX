@@ -1,0 +1,47 @@
+body{
+background-color:#000000;
+text-align: center;
+}
+
+
+#contenedor{
+text-align: center;
+width: 800px;
+background-color:#000000';
+margin-top:40px;
+margin-left:150px;
+}
+
+
+
+#areatexto{
+	width:600px;
+	padding:0 0px 0 0px;
+	color: #22506F;
+	background-color:#000000;
+	#float:right;
+	margin-left:2cm;
+
+}
+
+#cuadrodialogo{
+padding:12px;
+width:473px;
+height:450px;
+color:#FFFFFF;
+border-style:solid;
+border-color:#22506F;
+background-color:#000000;
+margin-left:105px;
+border-radius: 12px;
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+
+	
+}
+
+.rojo {
+  color:red;
+  } 
+
+
